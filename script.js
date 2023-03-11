@@ -1,2 +1,2 @@
-let yourArray=[{"name":"Chitra","age":22,"profession":"Student","hint":False,"Language":"hindi"}];
-return yourArray;
+let yourArray = ['one', 2, 'three', true, false];
+console.log(yourArray);
