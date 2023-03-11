@@ -1,2 +1,2 @@
-let yourArray=[26,'seema',27,'ritik',true];
+let youArray=[{"name":"Chitra","age":22,"profession":"Student","hint":False,"Language":"hindi"}];
 return yourArray;
