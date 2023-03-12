@@ -1,2 +1,4 @@
 let yourArray = ["one", 2, "three", true, false];
-console.log(yourArray);
+function Array(yourArray){
+	console.log(yourArray);
+}
