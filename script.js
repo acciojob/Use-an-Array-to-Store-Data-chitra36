@@ -1,3 +1,3 @@
-var yourArray = ["chitra", 21, false, 10.5, "Bisht"];
+let yourArray = ['thirty', 2007, true, 26, 'love'];
 
 console.log(yourArray);
