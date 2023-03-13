@@ -1,3 +1,3 @@
-let yourArray = ['some string', 21, true, 'another string', 'one more string'];
+let yourArray = ['chitra', 21, false, 10.5, 'one more string'];
 
-console.log(yourArray.length);
+console.log(yourArray);
